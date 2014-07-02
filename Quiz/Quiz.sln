@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{D688F521-8686-464E-9D9E-2768162556CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{D0038CAE-AC7B-426F-8307-B971BD2B3925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication3", "ConsoleApplication3\ConsoleApplication3.csproj", "{188BFE3E-608E-403B-B21D-5758EE02D44A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D688F521-8686-464E-9D9E-2768162556CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D688F521-8686-464E-9D9E-2768162556CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D688F521-8686-464E-9D9E-2768162556CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D688F521-8686-464E-9D9E-2768162556CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0038CAE-AC7B-426F-8307-B971BD2B3925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0038CAE-AC7B-426F-8307-B971BD2B3925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0038CAE-AC7B-426F-8307-B971BD2B3925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0038CAE-AC7B-426F-8307-B971BD2B3925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188BFE3E-608E-403B-B21D-5758EE02D44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188BFE3E-608E-403B-B21D-5758EE02D44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188BFE3E-608E-403B-B21D-5758EE02D44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188BFE3E-608E-403B-B21D-5758EE02D44A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
